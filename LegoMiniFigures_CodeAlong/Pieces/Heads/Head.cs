@@ -14,6 +14,7 @@ namespace LegoMiniFigures_CodeAlong.Pieces.Heads
 
 
         // no implementation, only allowed on abstract classes
+        // no ideas or opinions on how inheriting classes implement the method/behavior
         public abstract void Greet();
 
         public void Talk(string wordsToSay)

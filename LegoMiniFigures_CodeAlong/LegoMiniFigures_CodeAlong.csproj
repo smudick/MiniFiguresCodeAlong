@@ -5,9 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Pieces\Legs\" />
-    <Folder Include="Pieces\Torsos\" />
-  </ItemGroup>
-
 </Project>
